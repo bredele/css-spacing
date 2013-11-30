@@ -8,6 +8,6 @@
   "development": {},
   "license": "MIT",
   "styles": [
-    "maple-spacing.css"
+    "spacing.styl"
   ]
 }
