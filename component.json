@@ -1,0 +1,13 @@
+{
+  "name": "maple-spacing",
+  "repo": "leafs/maple-spacing",
+  "description": "Spacing utils",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "maple-spacing.css"
+  ]
+}
