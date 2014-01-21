@@ -1,5 +1,4 @@
-
-# maple-spacing
+# css-spacing
 
   Spacing utils
 
@@ -7,7 +6,7 @@
 
   Install with [component(1)](http://component.io):
 
-    $ component install leafs/maple-spacing
+    $ component install bredele/css-spacing
 
 ## API
 
